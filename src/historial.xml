@@ -1,0 +1,72 @@
+<historiales>
+    <historial>
+        <tipo>U</tipo>
+        <fecha-hora>28/11/2000 12:07:12</fecha-hora>
+        <empleado>Leonardo</empleado>
+    </historial>
+    <historial>
+        <tipo>U</tipo>
+        <fecha-hora>02/1/2010 10:47:52</fecha-hora>
+        <empleado>Michelangelo</empleado>
+    </historial>
+    <historial>
+        <tipo>U</tipo>
+        <fecha-hora>08/105/2015 20:01:55</fecha-hora>
+        <empleado>Michelangelo</empleado>
+    </historial>
+    <historial>
+        <tipo>U</tipo>
+        <fecha-hora>08/105/2015 20:01:55</fecha-hora>
+        <empleado>Astilla</empleado>
+    </historial>
+    <historial>
+        <tipo>U</tipo>
+        <fecha-hora>2022/04/01 20:24:51</fecha-hora>
+        <empleado>Leonardo</empleado>
+    </historial>
+    <historial>
+        <tipo>U</tipo>
+        <fecha-hora>02/12/2018 11:53:51</fecha-hora>
+        <empleado>Astilla</empleado>
+    </historial>   
+    <historial>
+        <tipo>U</tipo>
+        <fecha-hora>16/05/2020 14:09:40</fecha-hora>
+        <empleado>Astilla</empleado>
+    </historial> 
+     <historial>
+        <tipo>I</tipo>
+        <fecha-hora>28/11/2000 12:07:12</fecha-hora>
+        <empleado>Leonardo</empleado>
+    </historial>  
+     <historial>
+        <tipo>I</tipo>
+        <fecha-hora>28/11/2000 12:07:12</fecha-hora>
+        <empleado>Michelangelo</empleado>
+    </historial> 
+     <historial>
+        <tipo>I</tipo>
+        <fecha-hora>08/105/2015 20:01:55</fecha-hora>
+        <empleado>Michelangelo</empleado>
+    </historial> 
+    <historial>
+        <tipo>I</tipo>
+        <fecha-hora>08/105/2015 22:01:55</fecha-hora>
+        <empleado>Astilla</empleado>
+    </historial> 
+    <historial>
+        <tipo>I</tipo>
+        <fecha-hora>26/08/2017 06:59:59</fecha-hora>
+        <empleado>a</empleado>
+    </historial> 
+    <historial>
+        <tipo>I</tipo>
+        <fecha-hora>02/12/2018 11:53:51</fecha-hora>
+        <empleado>Leonardo</empleado>
+    </historial> 
+    <historial>
+        <tipo>I</tipo>
+        <fecha-hora>16/05/2020 14:09:40</fecha-hora>
+        <empleado>Astilla</empleado>
+    </historial> 
+</historiales>

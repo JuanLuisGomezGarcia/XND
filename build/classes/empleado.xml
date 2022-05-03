@@ -1,0 +1,32 @@
+<empleados>
+    <empleado>
+        <usuario>Leonardo</usuario>
+        <contraseña>111</contraseña>
+        <nombre>Leonardo Tortuga Azul</nombre>
+        <telefono>4570837</telefono>
+    </empleado>
+    <empleado>
+        <usuario>Michelangelo</usuario>
+        <contraseña>111</contraseña>
+        <nombre>Michelangelo Tortuga Naranja</nombre>
+        <telefono>7873940</telefono>
+    </empleado>
+    <empleado>
+        <usuario>Donatello</usuario>
+        <contraseña>111</contraseña>
+        <nombre>Donatello Tortuga Morada</nombre>
+        <telefono>8797345</telefono>
+    </empleado>
+    <empleado>
+        <usuario>Raphael</usuario>
+        <contraseña>111</contraseña>
+        <nombre>Raphael Tortuga Roja</nombre>
+        <telefono>4532332</telefono>
+    </empleado>
+    <empleado>
+        <usuario>Astilla</usuario>
+        <contraseña>111</contraseña>
+        <nombre>Astilla Rata</nombre>
+        <telefono>1122334</telefono>
+    </empleado>
+</empleados>
